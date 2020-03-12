@@ -1,6 +1,7 @@
 {
     "name": "mertkose/twitter-scraper",
     "description": "Scrape the twitter frontend api without auth.",
+    "license": "MIT",
     "require": {
         "imangazaliev/didom": "^1.14",
         "php-curl-class/php-curl-class": "^8.7"
