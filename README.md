@@ -16,7 +16,6 @@ var_dump($data->getTweets("#hashtag"))
 ```
 
 # Methods
-```
 ### → **getTweets()** -> array
 
 | Key       | Description                                                      |
@@ -46,5 +45,3 @@ Trend lists
 | location  | Location or Null                                                 |
 | birthday  | Birthday or Null                                                 |
 | website   | Website or Null                                                  |
-
-```
